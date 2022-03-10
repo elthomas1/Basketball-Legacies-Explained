@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+}
+
+header {
+  background-color: black;
+  justify-content: center;
+  font-size: large;
+}
