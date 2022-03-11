@@ -7,13 +7,13 @@ header {
   justify-content: center;
   font-size: large;
 }
-body {
+.content {
   max-width: 500px;
   margin: auto;
 }
 nav.menu {
-  width: 90%;
-  height: 50px;
+  width: 100%;
+  padding: 25px;
   background: black;
   color: white;
   display: flex;
@@ -24,4 +24,7 @@ a {
   text-decoration: none;
   color: white;
   font-size: large;
+}
+nav.menu a {
+  vertical-align: middle;
 }
