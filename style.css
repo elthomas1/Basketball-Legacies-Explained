@@ -11,3 +11,17 @@ body {
   max-width: 500px;
   margin: auto;
 }
+nav.menu {
+  width: 90%;
+  height: 50px;
+  background: black;
+  color: white;
+  display: flex;
+  align-items: left;
+  justify-content: space-around;
+  flex-direction: row;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
