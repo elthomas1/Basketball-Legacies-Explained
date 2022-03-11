@@ -10,6 +10,7 @@ header {
 .content {
   max-width: 500px;
   margin: auto;
+  font-size: larger;
 }
 nav.menu {
   width: 100%;
