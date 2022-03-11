@@ -28,3 +28,7 @@ a {
 nav.menu a {
   vertical-align: middle;
 }
+
+img {
+  max-width: 500px;
+}
